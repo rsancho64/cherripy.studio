@@ -9,19 +9,14 @@
 - python 3 (abajo del todo)
 
 
-## cherrypy.tuto
-
-@ https://docs.cherrypy.dev/en/latest/tutorials.html
-
-[**@**](https://docs.cherrypy.dev/en/latest/tutorials.html)
+- [ ] ## cherrypy.tuto
 
 [**https://docs.cherrypy.dev/en/latest/tutorials.html**](https://docs.cherrypy.dev/en/latest/tutorials.html)
 
-
-- [ ] ## Flask tuto ?
-- [ ] ## Hug tuto ?
-- [ ] ## Pyramid tuto ?
-- [ ] ## Albatross tuto ?
-- [ ] ## Falcon tuto ?
+- [ ] ## Flask tuto 
+- [??] ## Hug tuto ?
+- [??] ## Pyramid tuto ?
+- [??] ## Albatross tuto ?
+- [??] ## Falcon tuto ?
 
 
