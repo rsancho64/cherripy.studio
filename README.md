@@ -25,6 +25,3 @@
 - [ ] ## Falcon tuto ?
 
 
-
-20 ML * 500 MG / ML
-10000 MG /
