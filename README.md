@@ -1,13 +1,15 @@
 ## python FWs
 
+- [ ] READ: **python frameworks COMPARATIVE** https://www.slant.co/options/1740/alternatives/~cherrypy-alternatives
+
 - [ ] READ: python frameworks ... : [**full stack vs non-full stack**](https://www.turing.com/blog/flask-vs-cherrypy-what-should-python-developers-choose/):
 
-
+```
 - py stack top: zope, plone ..
 -     ... django
 -     ... cherrypy, flask, ... 
 - python 3 (abajo del todo)
-
+```
 
 - [ ] ## cherrypy.tuto
 
@@ -23,7 +25,6 @@
 - [??] ## Pyramid tuto ?
 - [??] ## Albatross tuto ?
 - [??] ## Falcon tuto ?
-
 
 ## USANDO REDIS con PYTHON-(FWs)
 
